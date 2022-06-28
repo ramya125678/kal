@@ -4,5 +4,6 @@ public class java {
     sting="mani"
     string="adi";
     string="latha";
+    string="sai";
 
 }
