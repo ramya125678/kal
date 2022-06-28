@@ -3,5 +3,6 @@ public class java {
     sting ="ramya";
     sting="mani"
     string="adi";
-}
+    string="latha";
+
 }
